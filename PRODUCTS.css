@@ -1,0 +1,42 @@
+
+.Allproducts{
+    display: flex;
+    text-align: center;
+}
+.img1{
+    margin-top: 20px;
+    margin-left: 20px;
+    height:200px;
+    width:200px;
+}
+.container .img1{
+    height:400px;
+    width: 400px;
+}
+ul li a:hover{
+    background-color: rgb(5, 201, 250);
+}
+ul{
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+}
+li a{
+    padding:20px;
+    color:whitesmoke;
+}
+nav ul li a{
+    text-decoration: none;
+}
+nav ul li{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    
+}
+li {
+    display: inline;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
